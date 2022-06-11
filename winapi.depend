@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654928529 source:c:\users\инет\desktop\up\winapi\winapi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
